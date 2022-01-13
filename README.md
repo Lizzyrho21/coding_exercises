@@ -1,4 +1,4 @@
-# concept-roundup-javascript-python
+# concept-roundup-javascript
 
 This challenge review covers core programming concepts that apply to all programming languages. Here we will solve them in BOTH JavaScript and Python.
 
@@ -6,10 +6,9 @@ This challenge review covers core programming concepts that apply to all program
 * Create `index.html`,`style.css`, and `main.js` files in your project for JavaScript solution(s)
 * Create a Python program that implements each solution as a separate function
 * Code your answers to each of the 5 questions using the Standard Template described below
-* All sample code below is in JavaScript but you will duplicate the same behavior in Python
-* We will cover all solutions and concepts in class
 
-> NOTE: Start with a separate JavaScript/Python file with a function called *main()*. This should be the first function called and point of entry for execution. All other code to accomplish whatever challenge should be in it's own function called from the main() function. No JavaScript/Python code should execute outside of a function. This pattern should be considered our 'Standard Template' for all of these exercises. Duplicate a similar pattern for Python solutions.
+
+> NOTE: Start with a separate JavaScript file with a function called *main()*. This should be the first function called and point of entry for execution. All other code to accomplish whatever challenge should be in it's own function called from the main() function. No JavaScript code should execute outside of a function. This pattern should be considered our 'Standard Template' for all of these exercises. 
 ```
 main() {
     // call exercise1(someParameter)
